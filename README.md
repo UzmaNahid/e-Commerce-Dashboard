@@ -29,3 +29,5 @@ To understand customer behavior, order trends, and regional patterns that suppor
 12. Which customer segments (gender/age) contribute the most?
 
 13. Which states/regions show the highest sales?
+
+ Dashboard <a href="https://github.com/UzmaNahid/e-Commerce-Dashboard/blob/main/eCommerce%20dashboard.xlsx"> view dashboard<a/a>

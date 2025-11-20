@@ -31,3 +31,8 @@ To understand customer behavior, order trends, and regional patterns that suppor
 13. Which states/regions show the highest sales?
 
  Dashboard <a href="https://github.com/UzmaNahid/e-Commerce-Dashboard/blob/main/eCommerce%20dashboard.xlsx"> view dashboard<a/a>
+
+<img width="551" height="383" alt="e-Commerce Excel Dashboard" src="https://github.com/user-attachments/assets/880bef3a-6467-4f44-b87c-e11fabf4b6ab" />
+
+## Conclusion
+The Excel dashboard provides a clear overview of customer behavior, sales patterns, and operational performance. Key trends in product preference, delivery satisfaction, and regional demand highlight opportunities to improve customer experience, optimize inventory, and strengthen sales strategies.

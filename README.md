@@ -5,6 +5,7 @@ To understand customer behavior, order trends, and regional patterns that suppor
 
 ## Questions(KPI)
 1.How many total orders were placed?
+
 2.How many total number of Quatity ordered?
 3.What is the total revenue generated?
 4.what is the Average Rating?
